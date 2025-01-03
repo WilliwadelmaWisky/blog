@@ -47,15 +47,3 @@
 <p align="justify">
 	There are naturally drawbacks as well. For example I could not get latex to work properly on manjaro. This is of course a quite a small problem and mostly due my limited knowledge. However by googling I found a lot of people having the exact same problem with manjaro/arch. With linux mint latex worked straight out of the box, just needed to install it.
 </p>
-
-<p align="justify">
-	Next I decided to try debian and see if I could somewhat get the benefits of manjaro and mint.
-</p>
-
-## Debian
-
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
-
-<p align="justify">
-	Debian
-</p>
