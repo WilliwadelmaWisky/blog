@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > The following story is not in completely chronological order in reality. Some chapters are moved to create a structure for the story so it is not a complete mess. 
 
-## Starting game development journey with already familiar Unreal Engine 4
+## Starting game development journey with the already familiar Unreal Engine 4
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 <p align="justify">
@@ -34,7 +34,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <p align="justify">
-  I started my web development journey by making very simple static websites with html and css. I was able to make somewhat eye-pleasing static websites so I thought that maybe I should invest a little more time on the web development. Some time later I began searching on how to render dynamic data on the website and that led me to learn little javascript. Javascript was such a weird language compared to C#. However I was able to understand it enough to make something work. I decided to search a better and easier way.
+  I started my web development journey by making very simple static websites with html and css. I was able to make somewhat eye-pleasing static websites so I thought that maybe I should invest a little more time on learning frontend development. Some time later I began searching on how to render dynamic data on the website and that led me to learn little javascript. Javascript was such a weird language compared to C#. However I was able to understand it enough to make something work. I decided to search a better and easier way.
 </p>
 
 <p align="justify">
@@ -64,11 +64,11 @@
 </p>
 
 <p align="justify">
-  ...
+  ASP.NET ...
 </p>
 
 <p align="justify">
-  I have done little experimenting with wicket framework. 
+  I also decided to try what java had to offer. Java is very similar to C# so there was not too much to learn about the syntax. I came across a framework called wicket. I did not have any specific project idea in mind so I just did some simple testing how the framework worked. Another framework I discovered was Spring. 
 </p>
 
 ## Getting into desktop application development with the web-based technologies
@@ -79,11 +79,11 @@
 ![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=E95420)
 
 <p align="justify">
-  My first taste of web-based desktop application frameworks was electron. A working application was quite simple to get up and running with electron+javascript. However, in electron, wokring with for example a file system felt a little too complicated to my taste. I decided to search a different option.
+  My first taste of web-based desktop application frameworks was electron. A working application was quite simple to get up and running with electron + javascript. However, in electron, working with a file system, for example, felt a little too complicated to my taste. I decided to search a different and simpler option.
 </p>
 
 <p align="justify">
-  I came across Tauri. However the problem with tauri was that I needed to learn rust. So I decided I would do just that and began learning rust. Rust was a very different experience from C# or javascript, and I little too complicated and messy to get something actually done. I decided to move away from web-based frameworks to java.
+  An option I came across was a framework called Tauri. However the problem with tauri was that I needed to learn Rust. I had a little look on the internet what is this so called Rust language. I found out that it is very fastly evolving language and loved by many. I thought I will probably have to learn it someday anyway so I decided I might as well do it now and began learning rust. Rust was a very different experience from C# or javascript, and I little too complicated and messy to get something actually done. I decided to move away from web-based frameworks.
 </p>
 
 ## Going back to C#
@@ -91,7 +91,7 @@
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIyLjM5NCA2Yy0uMTY3LS4yOS0uMzk4LS41NDMtLjY1Mi0uNjlMMTIuOTI2LjIyYy0uNTA5LS4yOTQtMS4zNC0uMjk0LTEuODQ4IDBMMi4yNiA1LjMxYy0uNTA4LjI5My0uOTIzIDEuMDEzLS45MjMgMS42djEwLjE4YzAgLjI5NC4xMDQuNjIuMjcxLjkxLjE2Ny4yOS4zOTguNTQzLjY1Mi42OWw4LjgxNiA1LjA5Yy41MDguMjkzIDEuMzQuMjkzIDEuODQ4IDBsOC44MTYtNS4wOWMuMjU0LS4xNDcuNDg1LS40LjY1Mi0uNjkuMTY3LS4yOS4yNy0uNjE2LjI3LS45MVY2LjkxYy4wMDMtLjI5NC0uMS0uNjItLjI2OC0uOTF6TTEyIDE5LjExYy0zLjkyIDAtNy4xMDktMy4xOS03LjEwOS03LjExIDAtMy45MiAzLjE5LTcuMTEgNy4xMS03LjExYTcuMTMzIDcuMTMzIDAgMDE2LjE1NiAzLjU1M2wtMy4wNzYgMS43OGEzLjU2NyAzLjU2NyAwIDAwLTMuMDgtMS43OEEzLjU2IDMuNTYgMCAwMDguNDQ0IDEyIDMuNTYgMy41NiAwIDAwMTIgMTUuNTU1YTMuNTcgMy41NyAwIDAwMy4wOC0xLjc3OGwzLjA3OCAxLjc4QTcuMTM1IDcuMTM1IDAgMDExMiAxOS4xMXptNy4yNS02aC0uNzl2Ljc5aC0uNzl2LS43OWgtLjc5di43OWgtLjc5di0uNzloLS43OXYtLjc5aC43OXYtLjc5aC0uNzl2LS43OWguNzl2LS43OWguNzl2Ljc5aC43OXYtLjc5aC43OXYuNzloLjc5di43OWgtLjc5di43OWguNzl6bS0yLjM3LTEuNThoLjc5di43OWgtLjc5eiIvPjwvc3ZnPg==)
 
 <p align="justify">
-  I got interested in desktop applications while developing prototypes with unity and visual studio.  
+  My journey circles back to its roots with C# once again. 
 </p>
 
 ## Maybe Java would be better
@@ -100,7 +100,7 @@
 ![Java](https://img.shields.io/badge/Java-red.svg?style=for-the-badge&logo=openjdk)
 
 <p align="justify">
-  Now I have been using java for developing desktop applications and have not really looked back. Java is also very similar to C# so there was not too much to learn about the syntax. If only java had operator overloading it would be amazing. Nonetheless I can get stuff done and I am happy about it.
+  Eventually I drfited away from C# to Java once again. Now I have been using Java for developing desktop applications and have not really looked back. I absolutely love to work with JavaFX. But of course I wanted to learn more so could not stop my journey on the JavaFX. I decided to try what kinda frameworks Python has to offer for building desktop applications.
 </p>
 
 ## Giving python a try
@@ -109,7 +109,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p align="justify">
-  I also tried building desktop apps with python (with windows). However that did not go very smoothly and the reason wasn't even python itself, nor my inability to use it. The problem was the ability to run python applications after making executables of them. I found a lot of similar issues where windows defender blocks the execution and deletes the file afterwards. Luckily there was an easy fix for that, ditching windows entirely. Next up it was time to take on the big challenge and try out C and C++.
+  I tried building desktop apps with python (with windows). Working with virtual environments was a bit tedious as windows tried really hard to prevent me from using them. Luckily I managed to get it working with few commands. Another problem I faced was running the executables made from the python source code. Running the executables did not go smoothly at all as windows defender just blocks the execution and deletes the file afterwards. I found a lot of similar issues on the internet. Luckily there were a couple of easy fixes for that, either whitelisting the executable or ditching windows entirely. Next up it was time to take on the big challenge and try out C and C++.
 </p>
 
 ## Looking for more control
@@ -121,18 +121,19 @@
   I have been reading a little about computer graphics in the form of C++ and OpenGL. I decided that maybe I should try to build something with OpenGL as well. I came across CMake which makes compiling the C++ application very simple. Setting up a simple window was relatively easy to get working with GLFW. Probably the hardest part was to get the OpenGL working on my machine. Nonetheless I began building a very simple raytracer.
 </p>
 
-## Getting into numerical approximation
+## Getting into data science and numerical approximation
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+![Sympy](https://img.shields.io/badge/SymPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue.svg?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p align="justify">
   Python has very good tools for working with numerics and creating plots or so I heard. I decided to try to learn numpy, scipy and matplotlib for that very reason. I am very glad I did invest a lot of time to learn them because they are getting more and more useful for me everyday. In the past I used quite a bit of excel (well the libreoffice alternative) when I needed to create a plot for some data for example because I did not know any better alternatives. I probably have not touched excel even a single time after learning python and I am very glad about that. It is just a lot faster to work with python and I have way more control over the results. Filled with confidence I decided that I should learn a little about machine learning as well.
 </p>
 
-## Attempting to learn data science and machine learning
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+## Attempting to learn machine learning
 ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -140,5 +141,15 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p align="justify">
-  I have been learning a bit machine learning in the form of sklearn and PyTorch. I am definitely going to dig a little bit deeper in the world of machine learning in the future. TensorFlow have been on my radar for a while but the inspiration has not struck me just yet.
+  I have been learning a bit machine learning in the form of sklearn and PyTorch. 
+</p>
+
+## Going functional
+
+<p align="justify">
+  I decided it was time to try some functional programming for a change. I came across Lisp and Racket. 
+</p>
+
+<p align="justify">
+  I also came across another functional programming language called Haskell.
 </p>
