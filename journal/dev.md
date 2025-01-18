@@ -124,8 +124,8 @@
 ## Getting into data science and numerical approximation
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-![Sympy](https://img.shields.io/badge/SymPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue.svg?style=for-the-badge)
+![Sympy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2c528f.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -145,6 +145,9 @@
 </p>
 
 ## Going functional
+![Lisp](https://img.shields.io/badge/Lisp-111111?style=for-the-badge&logo=commonlisp&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 <p align="justify">
   I decided it was time to try some functional programming for a change. I came across Lisp and Racket. 
